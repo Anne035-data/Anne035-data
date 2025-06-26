@@ -25,12 +25,14 @@ Manager expérimentée dans le secteur bancaire, récemment certifiée en Archit
 
 ### Management & Finance
 - Pilotage opérationnel et conduite du changement
-- Leadership d'équipe et résolution collaborative de problèmes
+- Leadership d'équipe et résolution collaborative de problèmes - Scrum (PSM I)
 - Analyse financière et ingénierie financière
 - Trade Finance et conformité internationale
 
-## Formation
-- 🎓 Certification Architecte en Intelligence Artificielle (RNCP niv.7) - Jedha Bootcamp (2025)
+## Formation - Certification
+- 🎓Scrum Master professionnel I (SMP I)
+- 🎓Certificat Excellence opérationnelle - ESSEC Business School (2025)
+- 🎓Certification Architecte en Intelligence Artificielle (RNCP niv.7) - Jedha Bootcamp (2025)
 - 🎓 DESS Ingénierie Juridique et Financière - IGR-IAE Rennes
 - 🎓 Maîtrise de Gestion - Ingénieur Maître en Contrôle de Gestion - IUP Vannes
 
