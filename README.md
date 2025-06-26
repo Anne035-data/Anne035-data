@@ -30,7 +30,7 @@ Manager expérimentée dans le secteur bancaire, récemment certifiée en Archit
 - Trade Finance et conformité internationale
 
 ## Formation - Certification
-- 🎓Scrum Master professionnel I (SMP I)
+- 🎓Scrum Master professionnel I (PSM I)
 - 🎓Certificat Excellence opérationnelle - ESSEC Business School (2025)
 - 🎓Certification Architecte en Intelligence Artificielle (RNCP niv.7) - Jedha Bootcamp (2025)
 - 🎓 DESS Ingénierie Juridique et Financière - IGR-IAE Rennes
